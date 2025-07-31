@@ -72,8 +72,7 @@ The dataset contains measurements from digitized images of fine needle aspirate 
 ## Author
 
 Raghda Haikal  
-Machine Learning Assignment – SVM Classifier  
-Instructor: *[Add your instructor's name if required]*
+
 
 ---
 
